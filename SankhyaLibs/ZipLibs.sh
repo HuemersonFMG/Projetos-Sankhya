@@ -1,0 +1,1 @@
+jar -M --create --file  Libs.zip -C Libs .
